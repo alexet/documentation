@@ -1,3 +1,0 @@
-# fixes the permissions issues
-paths-ignore:
-- .wrangler/
